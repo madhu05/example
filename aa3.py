@@ -2,5 +2,4 @@
 
 a="helloworld"
 print a
-b="hi"
-print b
+
